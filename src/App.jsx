@@ -23,7 +23,7 @@ export default function App(){
       <header className="fixed w-full h-[68px]  z-50 flex items-center justify-center mt-2 px-1">
         <nav className="max-w-[1300px] w-full h-full flex items-center  justify-between text-white bg-[rgba(255,255,255,0.1)] backdrop-blur-sm border border-[rgba(255,255,255,0.1)] px-4 rounded-xs md:text-2xl text-sm ">
             <a className=" l font-semibold cursor-pointer"><i className="fa-brands fa-github"></i> GitSeek</a>
-            <a className="group cursor-pointer  flex items-center">
+            <a className="group cursor-pointer  flex items-center" href="https://github.com/aryank11035/GitSeek" target="_blank">
               <span className="relative md:text-sm text-xs">
                 Source code
                 
