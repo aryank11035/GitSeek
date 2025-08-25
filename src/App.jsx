@@ -42,7 +42,7 @@ export default function App(){
 
         {/* Footer section  */}
         <footer className=" w-full h-[68px] z-50 flex items-center justify-center mb-2 px-2">
-          <div className="max-w-[1300px] w-full h-full flex items-center justify-between text-white bg-[rgba(255,255,255,0.1)] backdrop-blur-sm border border-[rgba(255,255,255,0.1)] px-4 rounded-xs md:text-xs text-xs font-extralight ">
+          <div className="max-w-[1300px] w-full h-full flex items-center justify-between text-white bg-[rgba(255,255,255,0.1)] backdrop-blur-sm border border-[rgba(255,255,255,0.1)] px-4 rounded-xs md:text-xs text-[0.6rem] font-extralight ">
             <div className="flex ">
               <a className="group cursor-pointer  flex items-center" href="https://github.com/aryank11035" target="_blank">
                   <span className="relative">
